@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: 4DSWorks
+  companyName: 4DS
   productName: Innyume
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -505,7 +505,7 @@ PlayerSettings:
   psp2PackagePassword: F69AzBlax3CF3EDNhm3soLBPh71Yexui
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
-  psp2DRMType: 0
+  psp2DRMType: 1
   psp2StorageType: 0
   psp2MediaCapacity: 0
   psp2DLCConfigPath: 
@@ -521,8 +521,8 @@ PlayerSettings:
   psp2ContentID: IV0000-YUME66666_00-0123456789YUMEIN
   psp2Category: 0
   psp2MasterVersion: 01.00
-  psp2AppVersion: 01.00
-  psp2TVBootMode: 0
+  psp2AppVersion: 01.06
+  psp2TVBootMode: 1
   psp2EnterButtonAssignment: 2
   psp2TVDisableEmu: 0
   psp2AllowTwitterDialog: 1
